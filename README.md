@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Shristi Jain
 
-<!--
-**jshristi3131/jshristi3131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Database Developer | SQL Developer
 
-Here are some ideas to get you started:
+I am a Database Developer with experience in designing, developing, optimizing, and maintaining database solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+- **Databases:** SQL Server, PostgreSQL, MySQL
+- **Cloud & Data:** Azure Data Factory
+- **ETL:** SSIS, ADF
+- **Programming:** SQL, PL/SQL, PL/pgSQL
+- **BI & Reporting:** Data warehouse
+- **Database Development:** Stored Procedures, Functions, Triggers, Views
+- **Performance:** Query Optimization, Indexing, Partitioning, Execution Plans
+- **Tools:** SSMS, pgAdmin, MySQL Workbench
+
+### 📚 Areas of Interest
+
+- Database Performance Optimization
+- ETL & Data Integration
+- Database Design
+- Query Optimization
+
+
+### 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/shristi-jain-381850207
